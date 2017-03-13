@@ -8,5 +8,6 @@ namespace SampleDemoProject
 {
     class SampleClassOne
     {
+        int a;
     }
 }
