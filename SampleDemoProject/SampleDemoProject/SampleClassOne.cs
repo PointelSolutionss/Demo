@@ -10,5 +10,6 @@ namespace SampleDemoProject
     {
         int a;
         int b;
+        int c;
     }
 }
